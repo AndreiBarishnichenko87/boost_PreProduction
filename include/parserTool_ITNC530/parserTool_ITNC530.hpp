@@ -1,0 +1,6 @@
+#ifndef PARSER_TOOL_ITNC530_H
+#define PARSER_TOOL_ITNC530_H
+
+int parser();
+
+#endif // PARSER_TOOL_ITNC530_H

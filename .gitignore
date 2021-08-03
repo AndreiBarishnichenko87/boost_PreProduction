@@ -1,5 +1,6 @@
 # my gitignore setting
 build/
+external/
 
 # Prerequisites
 #*.d
